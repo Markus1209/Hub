@@ -15,6 +15,7 @@ shitty code style dont look at it
 
 ]]
 -- // Locals
+local replicatedStorage = game:GetService("ReplicatedStorage")
 local virtualUser = game:GetService("VirtualUser")
 local players = game:GetService("Players")
 local RunService = game:GetService("RunService")
